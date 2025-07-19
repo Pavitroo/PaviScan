@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/platform-Windows%20|%20Linux-yellow?style=for-the-badge&logo=windows&logoColor=white" alt="platform" />
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge&logo=lock" alt="license" />
   <img src="https://img.shields.io/badge/Made%20with-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="made-with-go" />
-  <img src="https://img.shields.io/badge/VirusTotal-15%20AV%20Detections-blueviolet?style=for-the-badge&logo=virustotal&logoColor=white" alt="virustotal" />
+  <img src="https://img.shields.io/badge/VirusTotal-2%20AV%20Detections-blueviolet?style=for-the-badge&logo=virustotal&logoColor=white" alt="virustotal" />
 </p>
 
 
